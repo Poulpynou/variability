@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "conditions": [
+                        {
+                            "condition": "minecraft:block_state_property",
+                            "block": "flamingoisland:flamingo_blue",
+                            "properties": {
+                                "half": "bottom"
+                            }
+                        }
+                    ],
+                    "name": "flamingoisland:flamingo_blue"
+                }
+            ]
+        }
+    ]
+}

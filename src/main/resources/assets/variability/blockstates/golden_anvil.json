@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=east,half=top": { "model": "flamingoisland:block/flamingo_blue_eye", "y" : 90},
+        "facing=south,half=top": { "model": "flamingoisland:block/flamingo_blue_eye", "y": 180 },
+        "facing=west,half=top": { "model": "flamingoisland:block/flamingo_blue_eye", "y": 270 },
+        "facing=north,half=top": { "model": "flamingoisland:block/flamingo_blue_eye"},
+        "facing=east,half=bottom": { "model": "flamingoisland:block/flamingo_blue", "y" : 90},
+        "facing=south,half=bottom": { "model": "flamingoisland:block/flamingo_blue", "y": 180 },
+        "facing=west,half=bottom": { "model": "flamingoisland:block/flamingo_blue", "y": 270 },
+        "facing=north,half=bottom": { "model": "flamingoisland:block/flamingo_blue"}
+    }
+}
