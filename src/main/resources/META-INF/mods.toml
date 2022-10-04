@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Poulpynou/variability/issues"
+
+[[mods]]
+    modId="variability"
+    version="${file.jarVersion}"
+    displayName="Variability"
+    # displayURL="https://www.curseforge.com/minecraft/mc-mods/dawn-of-time" TODO !!!!!
+    logoFile="logo.png"
+    authors="Poulpinou"
+    description='''
+    This mod adds variability to equipment and forging skills !
+    '''
+
+[[dependencies.variability]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"

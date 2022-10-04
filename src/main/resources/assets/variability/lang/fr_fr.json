@@ -1,0 +1,22 @@
+{
+    "itemGroup.flamingoisland": "Flamingo Island",
+    "block.flamingoisland.flamingo_pink": "Flamant Rose",
+    "block.flamingoisland.flamingo_blue": "Flamant Bleu",
+    "block.flamingoisland.flamingo_silver": "Flamant Argenté",
+    "block.flamingoisland.flamingo_golden": "Flamant Doré",
+    "block.flamingoisland.flamingo_rainbow": "Flamant Arc-en-ciel",
+    "block.flamingoisland.totem": "Rune Totem",
+    "title.flamingoisland.flamingo_time": "Flamingo-Time !",
+    "title.flamingoisland.flamingo_direction_default": "Un arc-en-ciel est apparu...",
+    "title.flamingoisland.flamingo_direction_east": "Un arc-en-ciel est apparu à l'est !",
+    "title.flamingoisland.flamingo_direction_south_east": "Un arc-en-ciel est apparu au sud-est !",
+    "title.flamingoisland.flamingo_direction_south": "Un arc-en-ciel est apparu au sud !",
+    "title.flamingoisland.flamingo_direction_south_west": "Un arc-en-ciel est apparu au sud-ouest !",
+    "title.flamingoisland.flamingo_direction_west": "Un arc-en-ciel est apparu à l'ouest !",
+    "title.flamingoisland.flamingo_direction_north_west": "Un arc-en-ciel est apparu au nord-ouest !",
+    "title.flamingoisland.flamingo_direction_north": "Un arc-en-ciel est apparu au nord !",
+    "title.flamingoisland.flamingo_direction_north_east": "Un arc-en-ciel est apparu au nord-est !",
+    "title.flamingoisland.announce_broken_anonymous": "Un joueur a découvert un ",
+    "title.flamingoisland.announce_broken_public": "%1$s a découvert un ",
+    "title.flamingoisland.big_announce_broken": "%1$s a détruit le "
+}
